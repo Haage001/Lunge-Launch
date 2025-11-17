@@ -1,0 +1,15 @@
+/give @a minecraft:command_block
+/setworldspawn ~ ~1 ~
+/gamerule advance_time false
+/gamerule respawn_radius 0
+/gamemode survival
+/give @a minecraft:iron_block 4
+/give @a minecraft:carved_pumpkin
+/gamemode creative
+/gamemode survival
+/give @a spear
+/give @a minecraft:copper_spear
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival

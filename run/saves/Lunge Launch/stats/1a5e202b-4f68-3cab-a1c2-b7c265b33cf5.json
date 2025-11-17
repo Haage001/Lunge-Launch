@@ -1,0 +1,24 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 1536,
+      "minecraft:walk_one_cm": 3354,
+      "minecraft:damage_taken": 94,
+      "minecraft:play_time": 1536,
+      "minecraft:jump": 10,
+      "minecraft:time_since_death": 1536,
+      "minecraft:aviate_one_cm": 10450,
+      "minecraft:sprint_one_cm": 4303,
+      "minecraft:fall_one_cm": 1050,
+      "minecraft:total_world_time": 1536,
+      "minecraft:fly_one_cm": 5505,
+      "minecraft:crouch_one_cm": 11,
+      "minecraft:sneak_time": 33
+    },
+    "minecraft:used": {
+      "minecraft:iron_block": 4,
+      "minecraft:golden_carrot": 3
+    }
+  },
+  "DataVersion": 4662
+}

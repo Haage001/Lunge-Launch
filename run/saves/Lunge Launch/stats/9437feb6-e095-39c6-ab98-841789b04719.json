@@ -1,0 +1,31 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:observer": 1,
+      "minecraft:note_block": 2,
+      "minecraft:anvil": 2,
+      "minecraft:command_block": 5,
+      "minecraft:purple_wool": 1,
+      "minecraft:barrel": 4,
+      "minecraft:golden_carrot": 2
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 7719,
+      "minecraft:walk_one_cm": 2379,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 7719,
+      "minecraft:jump": 16,
+      "minecraft:time_since_death": 7719,
+      "minecraft:aviate_one_cm": 28779,
+      "minecraft:open_barrel": 9,
+      "minecraft:sprint_one_cm": 74,
+      "minecraft:fall_one_cm": 290,
+      "minecraft:total_world_time": 8345,
+      "minecraft:fly_one_cm": 4030,
+      "minecraft:interact_with_anvil": 3,
+      "minecraft:crouch_one_cm": 54,
+      "minecraft:sneak_time": 215
+    }
+  },
+  "DataVersion": 4662
+}

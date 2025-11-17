@@ -1,0 +1,20 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:carved_pumpkin": 1,
+      "minecraft:golden_carrot": 3
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 493,
+      "minecraft:fall_one_cm": 234,
+      "minecraft:walk_one_cm": 4064,
+      "minecraft:total_world_time": 493,
+      "minecraft:fly_one_cm": 4831,
+      "minecraft:play_time": 493,
+      "minecraft:jump": 8,
+      "minecraft:time_since_death": 493,
+      "minecraft:aviate_one_cm": 166
+    }
+  },
+  "DataVersion": 4662
+}
