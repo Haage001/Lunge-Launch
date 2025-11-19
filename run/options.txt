@@ -1,4 +1,4 @@
-version:4662
+version:4663
 ao:true
 biomeBlendRadius:2
 chunkSectionFadeInTime:0.75
@@ -19,6 +19,7 @@ fullscreen:false
 gamma:0.5
 guiScale:3
 maxAnisotropyBit:2
+textureFiltering:0
 maxFps:120
 improvedTransparency:false
 inactivityFpsLimit:"afk"
@@ -73,7 +74,7 @@ textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
 advancedItemTooltips:false
-pauseOnLostFocus:true
+pauseOnLostFocus:false
 overrideWidth:0
 overrideHeight:0
 chatHeightFocused:1.0

@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "lunge-launch",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"name": "Lunge Launch",
 	"description": "Automatically activates elytra when attacking with a Lunge-enchanted trident while airborne",
 	"authors": [

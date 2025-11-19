@@ -1,0 +1,30 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "minecraft:mutton": 2,
+      "minecraft:white_wool": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 1808,
+      "minecraft:walk_one_cm": 1054,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 677,
+      "minecraft:play_time": 1808,
+      "minecraft:jump": 26,
+      "minecraft:time_since_death": 1808,
+      "minecraft:aviate_one_cm": 68320,
+      "minecraft:drop": 2,
+      "minecraft:sprint_one_cm": 1105,
+      "minecraft:fall_one_cm": 776,
+      "minecraft:swim_one_cm": 5768,
+      "minecraft:total_world_time": 1859,
+      "minecraft:fly_one_cm": 7726,
+      "minecraft:walk_on_water_one_cm": 1206,
+      "minecraft:sneak_time": 25
+    },
+    "minecraft:used": {
+      "minecraft:golden_carrot": 4
+    }
+  },
+  "DataVersion": 4663
+}
