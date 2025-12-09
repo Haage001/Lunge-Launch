@@ -1,0 +1,16 @@
+{
+  "projectPath": ":",
+  "classpaths": {
+    "test": [
+      "C:\\minecraft\\mod-making\\Lunge Launch\\Lunge Launch\\build\\classes\\java\\test",
+      "C:\\minecraft\\mod-making\\Lunge Launch\\Lunge Launch\\build\\resources\\test",
+      "C:\\minecraft\\mod-making\\Lunge Launch\\Lunge Launch\\bin\\test"
+    ],
+    "main": [
+      "C:\\minecraft\\mod-making\\Lunge Launch\\Lunge Launch\\build\\classes\\java\\main",
+      "C:\\minecraft\\mod-making\\Lunge Launch\\Lunge Launch\\build\\resources\\main",
+      "C:\\minecraft\\mod-making\\Lunge Launch\\Lunge Launch\\build\\devlibs\\lunge-launch-1.0.0-dev.jar",
+      "C:\\minecraft\\mod-making\\Lunge Launch\\Lunge Launch\\bin\\main"
+    ]
+  }
+}
