@@ -1,0 +1,5 @@
+{
+  "activationDelayMs": 0,
+  "crouchToPreventFlight": true,
+  "crouchToCancelFlight": true
+}

@@ -1,0 +1,25 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:golden_carrot": 2
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 984,
+      "minecraft:walk_one_cm": 169,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 193,
+      "minecraft:play_time": 984,
+      "minecraft:jump": 9,
+      "minecraft:time_since_death": 984,
+      "minecraft:aviate_one_cm": 55883,
+      "minecraft:sprint_one_cm": 444,
+      "minecraft:fall_one_cm": 225,
+      "minecraft:swim_one_cm": 1861,
+      "minecraft:total_world_time": 1164,
+      "minecraft:fly_one_cm": 7183,
+      "minecraft:walk_on_water_one_cm": 1543,
+      "minecraft:sneak_time": 13
+    }
+  },
+  "DataVersion": 4786
+}

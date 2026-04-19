@@ -1,0 +1,7 @@
+{
+  "entrypoints": {
+    "modmenu": [
+      "haage.lungelaunch.config.ModMenuIntegration"
+    ]
+  }
+}

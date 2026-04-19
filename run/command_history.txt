@@ -13,3 +13,4 @@
 /gamemode survival
 /gamemode creative
 /gamemode survival
+/give @a minecraft:copper_spear

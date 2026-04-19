@@ -2,9 +2,8 @@
 	"required": true,
 	"package": "haage.lungelaunch.mixin",
 	"compatibilityLevel": "JAVA_21",
-	"mixins": [
-		"EntityAccessor",
-		"PlayerEntityMixin"
+	"client": [
+		"EntityAccessor"
 	],
 	"injectors": {
 		"defaultRequire": 1

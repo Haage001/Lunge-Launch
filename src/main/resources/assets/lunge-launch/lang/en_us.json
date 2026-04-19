@@ -1,0 +1,9 @@
+{
+  "text.autoconfig.lunge-launch.title": "Lunge Launch Config",
+  "text.autoconfig.lunge-launch.option.activationDelayMs": "Activation Delay (ms)",
+  "text.autoconfig.lunge-launch.option.activationDelayMs.@Tooltip": "Delay in milliseconds before activating elytra after using lunge spear. Useful for high ping servers. Default: 0ms (instant)",
+  "text.autoconfig.lunge-launch.option.crouchToPreventFlight": "Crouch to prevent flight",
+  "text.autoconfig.lunge-launch.option.crouchToPreventFlight.@Tooltip": "When enabled, crouching will prevent elytra from activating. Default: ON",
+  "text.autoconfig.lunge-launch.option.crouchToCancelFlight": "Lunge while flying",
+  "text.autoconfig.lunge-launch.option.crouchToCancelFlight.@Tooltip": "Allows using lunge spear while already flying with elytra. Default: OFF"
+}
